@@ -12,10 +12,10 @@
 
   "friends":[
 	  {
-		  "id": "1", "nome": "Leonardo", "email": "Leonardo@hotmail.com", "descricao":"Amigo 1", "redes_sociais":["facebook.com/leonardo123","twitter.com/leonardo123"], "status": "No Stress", "recent": "what"
+		  "id": "1", "nome": "Leonardo", "email": "Leonardo@hotmail.com", "avatar":"https://via.placeholder.com/150/f9cee5", "descricao":"Amigo 1", "redes_sociais":["facebook.com/leonardo123","twitter.com/leonardo123"], "status": "No Stress", "recent": "what"
 	  },
 	  {
-		  "id": "1", "nome": "Lucas", "email": "Lucas@hotmail.com", "descricao":"Amigo 2", "redes_sociais":["facebook.com/Lucas123","twitter.com/Lucas123"], "status": "Peace", "recent": "tahw"
+		  "id": "1", "nome": "Lucas", "email": "Lucas@hotmail.com", "descricao":"Amigo 2", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Lucas123","twitter.com/Lucas123"], "status": "Peace", "recent": "tahw"
 	  }
   ]
 }
