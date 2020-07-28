@@ -1,14 +1,13 @@
 {
-  "user": [
+  "user": 
     {
-    	"id": 1,
+    	"id": "1",
 		"nome": "Morais",
-		"avatar": "",
+		"avatar": "https://via.placeholder.com/150/9c184f",
 		"email": "vitormorais52@gmail.com",
 		"descricao":"Reside em Bauru, SP. 19 anos."
 
-	}
-  ],
+	},
 
   "friends":[
 	  {
@@ -18,19 +17,19 @@
 		"id": "2", "nome": "Lucas", "email": "Lucas@hotmail.com", "descricao":"Amigo 2", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Lucas123","twitter.com/Lucas123"], "status": "Peace", "recent": "tahw"
 	  },
 	  {
-		"id": "3", "nome": "Rafael", "email": "Rafael@hotmail.com", "descricao":"Amigo 3", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Rafael123","twitter.com/Rafael123"], "status": "No pain no gain", "recent": "tahw"
+		"id": "3", "nome": "Rafael", "email": "Rafael@hotmail.com", "descricao":"Amigo 3", "avatar":"https://via.placeholder.com/150/f9cee5", "redes_sociais":["facebook.com/Rafael123","twitter.com/Rafael123"], "status": "No pain no gain", "recent": "tahw"
 	  },
 	  {
 		"id": "4", "nome": "Jose", "email": "Jose@hotmail.com", "descricao":"Amigo 4", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Jose123","twitter.com/Jose123"], "status": "No ideas", "recent": "tahw"
 	  },
 	  {
-		"id": "5", "nome": "Neto", "email": "Neto@hotmail.com", "descricao":"Amigo 5", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Neto123","twitter.com/Neto123"], "status": "One for all", "recent": "tahw"
+		"id": "5", "nome": "Neto", "email": "Neto@hotmail.com", "descricao":"Amigo 5", "avatar":"https://via.placeholder.com/150/f9cee5", "redes_sociais":["facebook.com/Neto123","twitter.com/Neto123"], "status": "One for all", "recent": "tahw"
 	  },
 	  {
 		"id": "6", "nome": "Antonio", "email": "Antonio@hotmail.com", "descricao":"Amigo 6", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Antonio123","twitter.com/Antonio123"], "status": "All for one", "recent": "tahw"
 	  },
 	  {
-		"id": "7", "nome": "Arthur", "email": "Arthur@hotmail.com", "descricao":"Amigo 7", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Arthur123","twitter.com/Arthur123"], "status": "Test for ReactNative", "recent": "tahw"
+		"id": "7", "nome": "Arthur", "email": "Arthur@hotmail.com", "descricao":"Amigo 7", "avatar":"https://via.placeholder.com/150/f9cee5", "redes_sociais":["facebook.com/Arthur123","twitter.com/Arthur123"], "status": "Test for ReactNative", "recent": "tahw"
 	  },
 	  {
 		"id": "8", "nome": "Roberto", "email": "Roberto@hotmail.com", "descricao":"Amigo 8", "avatar":"https://via.placeholder.com/150/9c184f", "redes_sociais":["facebook.com/Roberto123","twitter.com/Roberto123"], "status": "Stack React", "recent": "tahw"
