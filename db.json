@@ -9,7 +9,7 @@
 
 	},
 
-  "friends":[
+  "teste":[
 	  {
 		"id": "1", "nome": "Leonardo", "email": "Leonardo@hotmail.com", "avatar":"https://via.placeholder.com/150/f9cee5", "descricao":"Amigo 1", "redes_sociais":["facebook.com/leonardo123","twitter.com/leonardo123"], "status": "No Stress", "recent": "what"
 	  },
