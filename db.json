@@ -12,61 +12,61 @@
   "teste":[
 	  {
 		"id": "1", "nome": "Leonardo Stinson", "email": "Leonardo@hotmail.com", 
-		"avatar":"https://via.placeholder.com/150/f9cee5", "descricao":"Amigo 1", 
+		"avatar":"https://i.pinimg.com/originals/ea/8f/17/ea8f17bde1ce2b32d29af5962873d4e8.jpg", "descricao":"Amigo 1", 
 		"redes_sociais":["facebook.com/leonardo123","twitter.com/leonardo123"], 
 		"status": "No Stress", "recent": "40"
 	  },
 	  {
 		"id": "2", "nome": "Lucas da Silva Pereira", "email": "Lucas@hotmail.com", 
-		"descricao":"Amigo 2", "avatar":"https://via.placeholder.com/150/9c184f", 
+		"descricao":"Amigo 2", "avatar":"https://mhmcdn.ynvolve.net/?w=750&h=450&quality=90&clipping=landscape&url=//manualdohomemmoderno.com.br/files/2015/05/17-Teorias-de-relacionamentos-de-Barney-Stinson-em-How-I-Met-Your-Mother-3.jpg&format=webp&hash=da8129237a8d31c6e2e9bff448b5194efc938c9a83212896b0193121f9d878c6", 
 		"redes_sociais":["facebook.com/Lucas123","twitter.com/Lucas123"], 
 		"status": "Peace", "recent": "51"
 	  },
 	  {
 		"id": "3", "nome": "Rafael de Andrade", "email": "Rafael@hotmail.com", 
-		"descricao":"Amigo 3", "avatar":"https://via.placeholder.com/150/f9cee5", 
+		"descricao":"Amigo 3", "avatar":"https://conteudo.imguol.com.br/c/entretenimento/75/2017/11/06/o-ator-charlie-sheen-em-cena-de-two-and-a-half-man-1509974998827_v2_1280x1920.jpg", 
 		"redes_sociais":["facebook.com/Rafael123","twitter.com/Rafael123"], 
 		"status": "No pain no gain", "recent": "25"
 	  },
 	  {
 		"id": "4", "nome": "Jose Carlos Ribeiro", "email": "Jose@hotmail.com", 
-		"descricao":"Amigo 4", "avatar":"https://via.placeholder.com/150/9c184f", 
+		"descricao":"Amigo 4", "avatar":"https://vignette.wikia.nocookie.net/sobrenaturalwikibr/images/b/b6/Sam_Winchester.jpg/revision/latest/top-crop/width/360/height/450?cb=20180528152456&path-prefix=pt-br", 
 		"redes_sociais":["facebook.com/Jose123","twitter.com/Jose123"], 
 		"status": "No ideas", "recent": "15"
 	  },
 	  {
 		"id": "5", "nome": "Neto Junior", "email": "Neto@hotmail.com", 
-		"descricao":"Amigo 5", "avatar":"https://via.placeholder.com/150/f9cee5", 
+		"descricao":"Amigo 5", "avatar":"https://i.pinimg.com/originals/5f/dd/51/5fdd51d2ed07718a116a508f6502a67e.jpg", 
 		"redes_sociais":["facebook.com/Neto123","twitter.com/Neto123"], 
 		"status": "One for all", "recent": "30"
 	  },
 	  {
 		"id": "6", "nome": "Antonio Paulo Cesar", "email": "Antonio@hotmail.com", 
-		"descricao":"Amigo 6", "avatar":"https://via.placeholder.com/150/9c184f", 
+		"descricao":"Amigo 6", "avatar":"https://vignette.wikia.nocookie.net/liberproeliis/images/2/2c/Lucifer_s7.jpg/revision/latest/scale-to-width-down/340?cb=20170527232952&path-prefix=pt-br", 
 		"redes_sociais":["facebook.com/Antonio123","twitter.com/Antonio123"], 
 		"status": "All for one", "recent": "10"
 	  },
 	  {
 		"id": "7", "nome": "Arthur Henrique de Castro", "email": "Arthur@hotmail.com", 
-		"descricao":"Amigo 7", "avatar":"https://via.placeholder.com/150/f9cee5", 
+		"descricao":"Amigo 7", "avatar":"https://vignette.wikia.nocookie.net/sobrenaturalwikibr/images/7/78/Dean_Winchester.jpg/revision/latest/top-crop/width/360/height/450?cb=20180528175756&path-prefix=pt-br", 
 		"redes_sociais":["facebook.com/Arthur123","twitter.com/Arthur123"], 
 		"status": "Designer", "recent": "1"
 	  },
 	  {
 		"id": "8", "nome": "Roberto Marcos Vieira", "email": "Roberto@hotmail.com", 
-		"descricao":"Amigo 8", "avatar":"https://via.placeholder.com/150/9c184f",
+		"descricao":"Amigo 8", "avatar":"https://pm1.narvii.com/6729/8316a0eff351196a30c456b3362638f7aa8e8055v2_00.jpg",
 		 "redes_sociais":["facebook.com/Roberto123","twitter.com/Roberto123"], 
 		 "status": "Stack React", "recent": "23"
 	  },
 	  {
 		"id": "9", "nome": "Rafael da Silva", "email": "Rafael@hotmail.com", 
-		"descricao":"Amigo 9", "avatar":"https://via.placeholder.com/150/9c184f",
+		"descricao":"Amigo 9", "avatar":"https://vignette.wikia.nocookie.net/sobrenaturalwikibr/images/4/45/Bobby.jpg/revision/latest?cb=20180528205832&path-prefix=pt-br",
 		 "redes_sociais":["facebook.com/Rafael123","twitter.com/Rafael123"], 
 		 "status": "Full Stack Developer", "recent": "59"
 	  },
 	  {
 		"id": "10", "nome": "Caio Henrique Andrade", "email": "Caio@hotmail.com", 
-		"descricao":"Amigo 10", "avatar":"https://via.placeholder.com/150/9c184f",
+		"descricao":"Amigo 10", "avatar":"https://assets0.minhaserie.com.br/images/highlights/000/048/019/45332.jpg",
 		 "redes_sociais":["facebook.com/Caio123","twitter.com/Caio123"], 
 		 "status": "Web Developer", "recent": "59"
 	  }
