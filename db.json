@@ -11,8 +11,8 @@
 
   "teste":[
 	  {
-		"id": "1", "nome": "Leonardo Stinson", "email": "Leonardo@hotmail.com", 
-		"avatar":"https://i.pinimg.com/originals/ea/8f/17/ea8f17bde1ce2b32d29af5962873d4e8.jpg", "descricao":"Amigo 1", 
+		"id": "1", "nome": "Leonardo Castro", "email": "Leonardo@hotmail.com", 
+		"avatar":"https://www.estrelando.com.br/uploads/2016/10/18/jasonsegel-1476808891.jpg", "descricao":"Amigo 1", 
 		"redes_sociais":["facebook.com/leonardo123","twitter.com/leonardo123"], 
 		"status": "No Stress", "recent": "40"
 	  },
